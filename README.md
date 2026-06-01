@@ -65,11 +65,6 @@ This value alters the current modelview matrix (`glMultMatrixf`), flattening and
 
 ---
 
-## 📌 Notes
-* This project was developed for educational purposes to highlight the underlying math of vintage 3D rendering pipelines.
-* The GLAUX library is deprecated/legacy software, used here specifically to simplify window setup and handle base 3D primitives.
-
----
 
 ## 👨‍💻 Author
 * **Virlan Stefan** – *Student / Developer*
