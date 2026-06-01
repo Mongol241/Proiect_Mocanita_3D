@@ -41,16 +41,6 @@ The project demonstrates:
 
 ---
 
-## 🧱 Project Structure
-
----
-📦 Mocanita-3D
- ┣ 📜 glos.h               # OpenGL configuration & OS-specific definitions
- ┣ 📜 main.cpp             # Core application logic, rendering loops & window setup
- ┣ 📜 glaux.lib            # Static library for GLAUX components (x86)
- ┣ 📜 glaux.dll            # Runtime dynamic link library (if applicable)
- ┗ 📜 README.md            # Project documentation & setup guide
----
 
 ## ⚙️ How It Works
 
